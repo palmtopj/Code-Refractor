@@ -41,13 +41,14 @@ header ul {
 }
 
 header ul li {
-    display: inline-block;
+    display-inline-block;
     margin-left: 25px;
 }
 
 a {
     color: #ffffff;
     text-decoration: none;
+
 }
 
 p {
